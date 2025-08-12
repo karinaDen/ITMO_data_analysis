@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Data & outputs
+data/*
+!data/.gitkeep
+
 # C extensions
 *.so
 
